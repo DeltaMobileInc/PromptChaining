@@ -129,17 +129,6 @@ That's the entire framework.
 
 This pattern is the foundation of every serious AI agent. Once you understand how to chain prompts reliably, the rest of agentic design — parallelisation, tool use, memory — becomes much clearer.
 
----
-
-## Part of a Series
-
-| # | Pattern | Status |
-|---|---------|--------|
-| 1 | **Prompt Chaining** | ✅ This repo |
-| 2 | Parallelisation | 🔜 Coming soon |
-| 3 | Routing | 🔜 Coming soon |
-| 4 | Orchestrator–Subagent | 🔜 Coming soon |
-| 5 | Evaluator–Optimiser | 🔜 Coming soon |
 
 ---
 
